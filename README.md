@@ -31,52 +31,13 @@ My main focus is building end-to-end projects:
 
 ## 🛠️ Tech Stack
 
-### Core Data & Engineering
-
-- Python
-- SQL
-- PostgreSQL
-- Pandas
-- NumPy
-- SQLAlchemy
-- ETL pipelines
-- Data cleaning
-- Data quality checks
-
-### Analytics & BI
-
-- Power BI
-- Excel
-- KPI analysis
-- Dashboard design
-- Data visualization
-- Business insights
-
-### AI / Machine Learning
-
-- scikit-learn
-- NLP basics
-- Classification models
-- Feature engineering
-- Model evaluation
-- Model deployment basics
-
-### Backend & Deployment
-
-- FastAPI basics
-- REST APIs
-- Docker basics
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-
-### Currently Learning
-
-- Apache Spark
-- Airflow
-- dbt
-- AWS / Cloud data services
-- MLOps fundamentals
+| Area | Tools |
+|---|---|
+| Data Engineering | Python, SQL, PostgreSQL, Pandas, SQLAlchemy |
+| Analytics & BI | Power BI, Excel, KPI Analysis, Dashboards |
+| AI / ML | scikit-learn, NLP basics, Classification, Model Evaluation |
+| Backend & Deployment | FastAPI, REST APIs, Docker basics, GitHub |
+| Currently Learning | Spark, Airflow, dbt, AWS, MLOps |
 
 ---
 

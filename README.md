@@ -99,8 +99,10 @@ Power BI | Data Visualization | Analytics | GitHub
 
 ---
 
-### Customer Review Data Analysis — Updating
-
+### 💬 Customer Review Data Analysis  
+![Status](https://img.shields.io/badge/Status-Updating-orange)
+![Type](https://img.shields.io/badge/Type-Review%20Analytics-blue)
+![Direction](https://img.shields.io/badge/Direction-Applied%20AI-purple)
 A review analytics project focused on exploring customer feedback and extracting useful insights from text-based review data.
 
 **Current progress:**

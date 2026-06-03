@@ -43,7 +43,10 @@ My main focus is building end-to-end projects:
 
 ## 🚀 Featured Projects & Current Portfolio Work
 
-### Public Transport Delay Pipeline — In Progress
+### 🚆 Public Transport Delay Pipeline  
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Type](https://img.shields.io/badge/Type-Data%20Engineering-blue)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-green)
 
 An end-to-end data engineering and analytics project using German public transport delay data.
 
@@ -75,7 +78,10 @@ Python | Pandas | PostgreSQL | SQLAlchemy | SQL | Power BI | Git
 
 ---
 
-### Airbnb Review Analysis Dashboard — In Progress
+### 🏠 Airbnb Review Analysis Dashboard  
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Type](https://img.shields.io/badge/Type-BI%20Dashboard-purple)
+![Tool](https://img.shields.io/badge/Tool-Power%20BI-orange)
 
 A Power BI project focused on analyzing Airbnb review data and practicing business intelligence dashboard design.
 

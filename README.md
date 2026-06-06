@@ -78,33 +78,48 @@ Python | Pandas | PostgreSQL | SQLAlchemy | SQL | Power BI | Git
 
 ---
 
-### 🏠 Airbnb Review Analysis Dashboard  
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+### 🏠 Rental Market Insights Dashboard  
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Type](https://img.shields.io/badge/Type-BI%20Dashboard-purple)
 ![Tool](https://img.shields.io/badge/Tool-Power%20BI-orange)
+![Skills](https://img.shields.io/badge/Skills-DAX%20%7C%20Bookmarks%20%7C%20Slicers-teal)
 
-A Power BI project focused on analyzing Airbnb review data and practicing business intelligence dashboard design.
+A Power BI dashboard project analyzing public Airbnb-style rental listing data across major cities.  
+The project focuses on market overview, pricing, room types, host activity, superhost distribution, and guest rating performance.
 
-**Current progress:**
+**What I built:**
 
-- Created Power BI project structure
-- Built initial KPI cards and visual summaries
-- Practiced slicers, filters, and dashboard layout
-- Connected project files with GitHub
+- Designed a two-page Power BI dashboard: Market Overview and Ratings Analysis
+- Created KPI cards for listings, cities, hosts, average price, average rating, and property types
+- Built interactive visuals for city listings, room types, pricing, host distribution, market share, and ratings
+- Added DAX measures for clean average price, rating conversion, total hosts, superhost listings, and rating categories
+- Used city slicers for interactive filtering
+- Used bookmarks to switch between overall and detailed rating analysis views
+- Applied a consistent dashboard design system using custom colors, icons, spacing, and Segoe UI typography
+- Added screenshots, README documentation, and project files to GitHub
 
 **Tech used:**
 
-Power BI | Data Visualization | Analytics | GitHub
+Power BI | Power Query | DAX | Data Visualization | Bookmarks | Slicers | GitHub
 
-**Next improvements:**
+**Key features:**
 
-- Improve dashboard design
-- Add final screenshots
-- Write project findings
-- Add clearer business insights
+- Market Overview dashboard
+- Ratings Analysis page
+- City dropdown slicer
+- Bookmark-based view switching
+- Superhost vs non-superhost analysis
+- Rating category comparison
+- Generic rental-market branding to avoid official Airbnb logo usage
 
----
+  ---
 
+**Project highlights:**
+
+- Converted review ratings from a 0–100 scale to a 0–5 dashboard rating
+- Filtered extreme price values for cleaner average price reporting
+- Created a professional dashboard layout with KPI cards, charts, sidebar navigation, and insight summaries
+- Practiced Power BI report design, DAX measures, and GitHub project documentation
 ### 💬 Customer Review Data Analysis  
 ![Status](https://img.shields.io/badge/Status-Updating-orange)
 ![Type](https://img.shields.io/badge/Type-Review%20Analytics-blue)

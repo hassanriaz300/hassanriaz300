@@ -2,9 +2,7 @@
 
 I'm a Master's student in **Computer & Systems Engineering** in Germany, focused on **Data Engineering, Analytics, and applied AI**.
 
-My goal is to grow into an **AI Engineer** by building practical projects that connect:
-
-**Data Pipelines → Databases → Analytics → Machine Learning → APIs → Cloud Deployment**
+My goal is to grow into an **AI Engineer** by building practical projects that connect data pipelines, databases, analytics, machine learning, APIs, and cloud deployment.
 
 ---
 
@@ -13,38 +11,72 @@ My goal is to grow into an **AI Engineer** by building practical projects that c
 **Data Engineering:** Python, SQL, PostgreSQL, Pandas, SQLAlchemy  
 **Analytics & BI:** Power BI, Excel, KPI Analysis, Dashboards  
 **AI / ML:** scikit-learn, NLP basics, Classification, Model Evaluation  
-**Backend:** FastAPI, REST APIs, Docker basics  
+**Backend & Deployment:** FastAPI, REST APIs, Docker basics  
 **Currently Learning:** Spark, Airflow, dbt, AWS, MLOps  
 
 ---
 
 ## 🚀 Project Showcase
 
-### 🚆 Public Transport Delay Pipeline  
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Type](https://img.shields.io/badge/Type-Data%20Engineering-blue)
-![Database](https://img.shields.io/badge/Database-PostgreSQL-green)
+### 🚆 Public Transport Delay Pipeline
 
-End-to-end data engineering project using German public transport delay data.
+[![Public Transport Delay Pipeline](./assets/transport-delay-dashboard.png)](https://github.com/hassanriaz300/public-transport-delay-pipeline)
 
-**Highlights:**
+**Data Engineering | PostgreSQL | SQL | Power BI**
 
-- Processed over **2 million records**
-- Built a Python cleaning and transformation pipeline
-- Loaded clean data into **PostgreSQL**
-- Wrote SQL analysis queries
-- Exported dashboard-ready datasets for Power BI
-- Analyzed delays by line, city, station, date, and hour
+End-to-end data engineering and analytics project using German public transport delay data.
 
-**Stack:** Python | Pandas | PostgreSQL | SQLAlchemy | SQL | Power BI | Git
+Processed over **2 million records**, cleaned and transformed data with Python, loaded it into PostgreSQL, wrote SQL analysis queries, and exported dashboard-ready datasets.
+
+[View Project](https://github.com/hassanriaz300/public-transport-delay-pipeline)
 
 ---
 
-### 🏠 Rental Market Insights Dashboard  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Type](https://img.shields.io/badge/Type-BI%20Dashboard-purple)
-![Tool](https://img.shields.io/badge/Tool-Power%20BI-orange)
-![Skills](https://img.shields.io/badge/Skills-DAX%20%7C%20Bookmarks%20%7C%20Slicers-teal)
+### 🏠 Rental Market Insights Dashboard
+
+[![Rental Market Insights Dashboard](./assets/rental-market-dashboard.png)](https://github.com/hassanriaz300/power-bi-airbnb-review-analysis)
+
+**Power BI | DAX | Bookmarks | Slicers**
+
+Power BI dashboard analyzing public rental listing data across major cities.
+
+Built a two-page dashboard covering market overview, pricing, room types, host activity, superhost distribution, and rating performance.
+
+[View Project](https://github.com/hassanriaz300/power-bi-airbnb-review-analysis)
+
+---
+
+### 💬 Customer Review Data Analysis
+
+[![Customer Review Data Analysis](./assets/customer-review-analysis.png)](https://github.com/hassanriaz300/customer-review-data-analysis)
+
+**Python | Pandas | NLP Basics | Review Analytics**
+
+Review analytics project focused on extracting useful business insights from customer feedback.
+
+Planned direction: review cleaning, categorization, sentiment analysis, topic detection, and dashboard insights.
+
+[View Project](https://github.com/hassanriaz300/customer-review-data-analysis)
+
+---
+
+## 🎯 Current Direction
+
+I am currently building projects around:
+
+**Data Engineering → Analytics → Machine Learning → APIs → Cloud / MLOps**
+
+My next project direction:
+
+**Customer Reviews → Cleaning → PostgreSQL → NLP Model → FastAPI → Dashboard**
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/hassanriaz300
+- Email: hassanriaz@live.com
+- GitHub: [github.com/hassanriaz300](https://github.com/hassanriaz300)![Skills](https://img.shields.io/badge/Skills-DAX%20%7C%20Bookmarks%20%7C%20Slicers-teal)
 
 Power BI dashboard analyzing public rental listing data across major cities.
 

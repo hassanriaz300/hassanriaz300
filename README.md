@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
 ## About Me
 
@@ -13,14 +13,6 @@ My goal is to grow into an **AI Engineer** by building practical projects that c
 **Data Pipelines → Databases → Analytics → ML → APIs → Cloud**
 
 <br>
-
-## Connect
-
-<a href="https://linkedin.com/in/hassanriaz300">LinkedIn</a> ·
-<a href="mailto:hassanriaz@live.com">Email</a> ·
-<a href="https://github.com/hassanriaz300">GitHub</a>
-
-<br><br>
 
 ## 🛠️ Tech Stack
 
@@ -58,9 +50,24 @@ My goal is to grow into an **AI Engineer** by building practical projects that c
 ![dbt](https://img.shields.io/badge/dbt-Learning-FF694B?style=flat&logo=dbt&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-Learning-6f42c1?style=flat)
+
+<br>
+
+<br>
+ 
+ ## Connect
+
+<a href="https://linkedin.com/in/hassanriaz300">LinkedIn</a> ·
+<a href="mailto:hassanriaz@live.com">Email</a> ·
+<a href="https://github.com/hassanriaz300">GitHub</a>
+
+<br>
+
 </td>
 
-<td width="65%" valign="top">
+
+
+<td width="50%" valign="top">
 
 ## Project Showcase
 

@@ -4,6 +4,18 @@ I'm a Master's student in **Computer & Systems Engineering** in Germany, focused
 
 My goal is to grow into an **AI Engineer** by building practical projects that connect data pipelines, databases, analytics, machine learning, APIs, and cloud deployment.
 
+<p align="left">
+  <a href="https://linkedin.com/in/hassanriaz300">
+    <img src="https://img.shields.io/badge/LinkedIn-Hassan%20Riaz-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hassanriaz@live.com">
+    <img src="https://img.shields.io/badge/Email-hassanriaz%40live.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/hassanriaz300">
+    <img src="https://img.shields.io/badge/GitHub-hassanriaz300-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack

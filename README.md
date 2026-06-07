@@ -21,27 +21,49 @@ My goal is to grow into an **AI Engineer** by building practical projects that c
 
 ## 🛠️ Tech Stack
 
+### Data Engineering & Analytics
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="38" title="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" title="VS Code"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-742774?style=flat&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-Learning-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-Learning-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-Learning-FF694B?style=flat&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+### Analytics & BI
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-742774?style=flat&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dashboards-0F5C5C?style=flat&logo=googledatastudio&logoColor=white" />
+</p>
+
+### AI / Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP%20Basics-6A0DAD?style=flat" />
+  <img src="https://img.shields.io/badge/Classification-FF8C00?style=flat" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-2E8B57?style=flat" />
+</p>
+
+### Backend & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat" />
+  <img src="https://img.shields.io/badge/Docker-Basics-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+### Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Spark-Learning-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-Learning-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-Learning-FF694B?style=flat&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-Learning-6f42c1?style=flat" />
 </p>
 ---
 

@@ -17,15 +17,48 @@ My goal is to grow into an **AI Engineer** by building practical projects that c
 </p>
 
 ---
+---
 
 ## 🛠️ Tech Stack
 
-**Data Engineering:** Python, SQL, PostgreSQL, Pandas, SQLAlchemy  
-**Analytics & BI:** Power BI, Excel, KPI Analysis, Dashboards  
-**AI / ML:** scikit-learn, NLP basics, Classification, Model Evaluation  
-**Backend & Deployment:** FastAPI, REST APIs, Docker basics  
-**Currently Learning:** Spark, Airflow, dbt, AWS, MLOps  
+### Data Engineering & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
+### Business Intelligence
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-742774?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+### AI / Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-Basics-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-orange?style=for-the-badge" />
+</p>
+
+### Backend & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-Basics-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Spark-Learning-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-Learning-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-Learning-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-Learning-blueviolet?style=for-the-badge" />
+</p>
 ---
 
 ## 🚀 Project Showcase

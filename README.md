@@ -1,16 +1,22 @@
+# Hi, I'm Hassan 👋
+
+I'm a Master's student in **Computer & Systems Engineering** in Germany, focused on **Data Engineering, Analytics, and applied AI**.
+
+My goal is to grow into an **AI Engineer** by building practical projects that connect data pipelines, databases, analytics, machine learning, APIs, and cloud deployment.
+
 <p align="left">
   <a href="https://linkedin.com/in/hassanriaz300" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="32" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Hassan%20Riaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="mailto:hassanriaz@live.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" width="32" height="32"/>
+    <img src="https://img.shields.io/badge/Email-hassanriaz%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
   <a href="https://github.com/hassanriaz300" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" width="32" height="32"/>
+    <img src="https://img.shields.io/badge/GitHub-hassanriaz300-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+---
 
 
 ## 🛠️ Tech Stack

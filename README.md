@@ -1,131 +1,114 @@
 # Hi, I'm Hassan 👋
 
+<table>
+<tr>
+<td width="35%" valign="top">
+
+## About Me
+
 I'm a Master's student in **Computer & Systems Engineering** in Germany, focused on **Data Engineering, Analytics, and applied AI**.
 
-My goal is to grow into an **AI Engineer** by building practical projects that connect data pipelines, databases, analytics, machine learning, APIs, and cloud deployment.
+My goal is to grow into an **AI Engineer** by building practical projects that connect:
 
-<p align="left">
-  <a href="https://linkedin.com/in/hassanriaz300" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hassan%20Riaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hassanriaz@live.com">
-    <img src="https://img.shields.io/badge/Email-hassanriaz%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/hassanriaz300" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-hassanriaz300-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+**Data Pipelines → Databases → Analytics → ML → APIs → Cloud**
 
----
+<br>
 
+## Connect
+
+<a href="https://linkedin.com/in/hassanriaz300">LinkedIn</a> ·
+<a href="mailto:hassanriaz@live.com">Email</a> ·
+<a href="https://github.com/hassanriaz300">GitHub</a>
+
+<br><br>
 
 ## 🛠️ Tech Stack
 
-### Data Engineering & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white" />
-</p>
+**Data Engineering**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
 
-### Analytics & BI
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-742774?style=flat&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dashboards-0F5C5C?style=flat&logo=googledatastudio&logoColor=white" />
-</p>
+**Analytics & BI**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-742774?style=flat&logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Dashboards](https://img.shields.io/badge/Dashboards-0F5C5C?style=flat&logo=googledatastudio&logoColor=white)
 
-### AI / Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP%20Basics-6A0DAD?style=flat" />
-  <img src="https://img.shields.io/badge/Classification-FF8C00?style=flat" />
-  <img src="https://img.shields.io/badge/Model%20Evaluation-2E8B57?style=flat" />
-</p>
+**AI / ML**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NLP Basics](https://img.shields.io/badge/NLP%20Basics-6A0DAD?style=flat)
+![Classification](https://img.shields.io/badge/Classification-FF8C00?style=flat)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-2E8B57?style=flat)
 
-### Backend & Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat" />
-  <img src="https://img.shields.io/badge/Docker-Basics-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
+**Backend & Deployment**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat)
+![Docker](https://img.shields.io/badge/Docker-Basics-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### Currently Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Spark-Learning-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-Learning-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-Learning-FF694B?style=flat&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-Learning-6f42c1?style=flat" />
-</p>
+**Currently Learning**  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Learning-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-Learning-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-Learning-FF694B?style=flat&logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-Learning-6f42c1?style=flat)
+</td>
 
----
+<td width="65%" valign="top">
 
-## 🚀 Project Showcase
+## Project Showcase
 
-### 🚆 Public Transport Delay Pipeline
 
-[![Public Transport Delay Pipeline](./assets/transport-delay-dashboard.png)](https://github.com/hassanriaz300/public-transport-delay-pipeline)
-
-**Data Engineering | PostgreSQL | SQL | Power BI**
-
-End-to-end data engineering and analytics project using German public transport delay data.
-
-Processed over **2 million records**, cleaned and transformed data with Python, loaded it into PostgreSQL, wrote SQL analysis queries, and exported dashboard-ready datasets.
-
-[View Project](https://github.com/hassanriaz300/public-transport-delay-pipeline)
-
----
 
 ### 🏠 Rental Market Insights Dashboard
 
-[![Rental Market Insights Dashboard](./assets/rental-market-dashboard.png)](https://github.com/hassanriaz300/power-bi-airbnb-review-analysis)
-
-**Power BI | DAX | Bookmarks | Slicers**
+<a href="https://github.com/hassanriaz300/power-bi-airbnb-review-analysis">
+  <img src="https://github.com/hassanriaz300/airbnb-market-analysis-powerbi/blob/main/screenshots/Screenshot%20Overview.png" width="100%" alt="Rental Market Insights Dashboard"/>
+</a>
 
 Power BI dashboard analyzing public rental listing data across major cities.
 
-Built a two-page dashboard covering market overview, pricing, room types, host activity, superhost distribution, and rating performance.
+**Stack:** Power BI · Power Query · DAX · Bookmarks · Slicers  
+**Highlights:** Market overview, rating analysis, superhost comparison, clean dashboard design.
 
-[View Project](https://github.com/hassanriaz300/power-bi-airbnb-review-analysis)
+<a href="https://github.com/hassanriaz300/power-bi-airbnb-review-analysis">View Project →</a>
+
+---
+
+### 🚆 Public Transport Delay Pipeline
+
+<a href="https://github.com/hassanriaz300/public-transport-delay-pipeline">
+  <img src="./assets/transport-delay-dashboard.png" width="100%" alt="Public Transport Delay Pipeline"/>
+</a>
+
+End-to-end data engineering and analytics project using German public transport delay data.
+
+**Stack:** Python · Pandas · PostgreSQL · SQLAlchemy · SQL · Power BI  
+**Highlights:** 2M+ records processed, PostgreSQL loading, SQL analysis, dashboard-ready exports.
+
+<a href="https://github.com/hassanriaz300/public-transport-delay-pipeline">View Project →</a>
 
 ---
 
 ### 💬 Customer Review Data Analysis
 
-[![Customer Review Data Analysis](./assets/customer-review-analysis.png)](https://github.com/hassanriaz300/customer-review-data-analysis)
+<a href="https://github.com/hassanriaz300/customer-review-data-analysis">
+  <img src="./assets/customer-review-analysis.png" width="100%" alt="Customer Review Data Analysis"/>
+</a>
 
-**Python | Pandas | NLP Basics | Review Analytics**
+Review analytics project focused on extracting business insights from customer feedback.
 
-Review analytics project focused on extracting useful business insights from customer feedback.
+**Stack:** Python · Pandas · NLP Basics · Data Analysis · Visualization  
+**Direction:** Cleaning, categorization, sentiment analysis, topic detection, and dashboard insights.
 
-Planned direction: review cleaning, categorization, sentiment analysis, topic detection, and dashboard insights.
+<a href="https://github.com/hassanriaz300/customer-review-data-analysis">View Project →</a>
 
-[View Project](https://github.com/hassanriaz300/customer-review-data-analysis)
-
----
-
-## 🎯 Current Direction
-
-I am currently building projects around:
-
-**Data Engineering → Analytics → Machine Learning → APIs → Cloud / MLOps**
-
-My next project direction:
-
-**Customer Reviews → Cleaning → PostgreSQL → NLP Model → FastAPI → Dashboard**
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/hassanriaz300
-- Email: hassanriaz@live.com
-- GitHub: [github.com/hassanriaz300](https://github.com/hassanriaz300)
+</td>
+</tr>
+</table>

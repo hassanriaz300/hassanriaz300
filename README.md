@@ -6,12 +6,13 @@
 
 ## About Me
 
-I'm a Master's student in **Computer & Systems Engineering** in Germany, focused on **Data Engineering, Analytics, and applied AI**.
+Master's student in **Computer & Systems Engineering** in Germany, focused on **Data Engineering, Analytics, and applied AI**.
 
-My goal is to grow into an **AI Engineer** by building practical projects that connect:
+I build practical projects around **Python, SQL, PostgreSQL, Power BI, machine learning, APIs, and deployment**.
 
-**Data Pipelines → Databases → Analytics → ML → APIs → Cloud**
+My background combines **software development, education operations, reporting, team leadership, and teaching database/programming fundamentals**.
 
+I am positioning myself for **AI / Data Engineering roles**, where I can build reliable systems that turn raw data into insights, predictions, and usable applications.
 <br>
 
 ## 🛠️ Tech Stack

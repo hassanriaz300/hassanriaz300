@@ -85,7 +85,7 @@ Power BI dashboard analyzing public rental listing data across major cities.
 **Stack:** Power BI · Power Query · DAX · Bookmarks · Slicers  
 **Highlights:** Market overview, rating analysis, superhost comparison, clean dashboard design.
 
-<a href="https://github.com/hassanriaz300/power-bi-airbnb-review-analysis">View Project →</a>
+<a href="https://github.com/hassanriaz300/airbnb-market-analysis-powerbi">View Project →</a>
 
 ---
 

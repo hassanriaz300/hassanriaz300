@@ -92,7 +92,7 @@ Power BI dashboard analyzing public rental listing data across major cities.
 ### 🚆 Public Transport Delay Pipeline
 
 <a href="https://github.com/hassanriaz300/public-transport-delay-pipeline">
-  <img src="./assets/transport-delay-dashboard.png" width="100%" alt="Public Transport Delay Pipeline"/>
+  <img src="https://github.com/hassanriaz300/public-transport-delay-pipeline/blob/main/PowerBI_Dashboard/Images/Dashboard.png" width="100%" alt="Public Transport Delay Pipeline"/>
 </a>
 
 End-to-end data engineering and analytics project using German public transport delay data.

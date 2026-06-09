@@ -107,15 +107,15 @@ End-to-end data engineering and analytics project using German public transport 
 ### 💬 Customer Review Data Analysis
 
 <a href="https://github.com/hassanriaz300/data-project">
-  <img src="./assets/customer-review-analysis.png" width="100%" alt="Customer Review Data Analysis"/>
+  <img src="https://github.com/hassanriaz300/data-project/blob/review-and-refactor/frontend/docs/screenshots/2m.png" width="100%" alt="Customer Review Data Analysis Dashboard"/>
 </a>
 
-Review analytics project focused on extracting business insights from customer feedback.
+Review analytics web app focused on extracting business insights from supermarket customer feedback using NLP, semantic mapping, and visual analytics.
 
-**Stack:** Python · Pandas · NLP Basics · Data Analysis · Visualization  
-**Direction:** Cleaning, categorization, sentiment analysis, topic detection, and dashboard insights.
+**Stack:** Python · FastAPI · React · Pandas · NLP · Data Analysis · Visualization  
+**Direction:** Review cleaning, accusation categorization, semantic mapping, business insights, and dashboard visualizations.
 
-<a href="https://github.com/hassanriaz300/customer-review-data-analysis">View Project →</a>
+<a href="https://github.com/hassanriaz300/data-project">View Project →</a>
 
 </td>
 </tr>

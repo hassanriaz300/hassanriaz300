@@ -72,7 +72,34 @@ I am positioning myself for **AI / Data Engineering roles**, where I can build r
 
 ## Project Showcase
 
+### 💬 Customer Review Data Processing and insights
 
+<a href="https://github.com/hassanriaz300/data-project">
+  <img src="https://github.com/hassanriaz300/data-project/blob/review-and-refactor/frontend/docs/screenshots/2m.png" width="100%" alt="Customer Review Data Analysis Dashboard"/>
+</a>
+
+Review analytics web app focused on extracting business insights from supermarket customer feedback using NLP, semantic mapping, and visual analytics.
+
+**Stack:** Python · FastAPI · React · Pandas · NLP · Data Analysis · Visualization  
+**Direction:** Review cleaning, accusation categorization, semantic mapping, business insights, and dashboard visualizations.
+
+<a href="https://github.com/hassanriaz300/data-project">View Project →</a>
+
+---
+### 🚆 Public Transport Delay Pipeline
+
+<a href="https://github.com/hassanriaz300/public-transport-delay-pipeline">
+  <img src="https://github.com/hassanriaz300/public-transport-delay-pipeline/blob/main/PowerBI_Dashboard/Images/Dashboard.png" width="100%" alt="Public Transport Delay Pipeline"/>
+</a>
+
+End-to-end data engineering and analytics project using German public transport delay data.
+
+**Stack:** Python · Pandas · PostgreSQL · SQLAlchemy · SQL · Power BI  
+**Highlights:** 2M+ records processed, PostgreSQL loading, SQL analysis, dashboard-ready exports.
+
+<a href="https://github.com/hassanriaz300/public-transport-delay-pipeline">View Project →</a>
+
+---
 
 ### 🏠 Rental Market Insights Dashboard
 
@@ -89,33 +116,9 @@ Power BI dashboard analyzing public rental listing data across major cities.
 
 ---
 
-### 🚆 Public Transport Delay Pipeline
 
-<a href="https://github.com/hassanriaz300/public-transport-delay-pipeline">
-  <img src="https://github.com/hassanriaz300/public-transport-delay-pipeline/blob/main/PowerBI_Dashboard/Images/Dashboard.png" width="100%" alt="Public Transport Delay Pipeline"/>
-</a>
 
-End-to-end data engineering and analytics project using German public transport delay data.
 
-**Stack:** Python · Pandas · PostgreSQL · SQLAlchemy · SQL · Power BI  
-**Highlights:** 2M+ records processed, PostgreSQL loading, SQL analysis, dashboard-ready exports.
-
-<a href="https://github.com/hassanriaz300/public-transport-delay-pipeline">View Project →</a>
-
----
-
-### 💬 Customer Review Data Analysis
-
-<a href="https://github.com/hassanriaz300/data-project">
-  <img src="https://github.com/hassanriaz300/data-project/blob/review-and-refactor/frontend/docs/screenshots/2m.png" width="100%" alt="Customer Review Data Analysis Dashboard"/>
-</a>
-
-Review analytics web app focused on extracting business insights from supermarket customer feedback using NLP, semantic mapping, and visual analytics.
-
-**Stack:** Python · FastAPI · React · Pandas · NLP · Data Analysis · Visualization  
-**Direction:** Review cleaning, accusation categorization, semantic mapping, business insights, and dashboard visualizations.
-
-<a href="https://github.com/hassanriaz300/data-project">View Project →</a>
 
 </td>
 </tr>

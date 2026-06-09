@@ -106,7 +106,7 @@ End-to-end data engineering and analytics project using German public transport 
 
 ### 💬 Customer Review Data Analysis
 
-<a href="https://github.com/hassanriaz300/customer-review-data-analysis">
+<a href="https://github.com/hassanriaz300/data-project">
   <img src="./assets/customer-review-analysis.png" width="100%" alt="Customer Review Data Analysis"/>
 </a>
 

@@ -70,7 +70,7 @@ I am positioning myself for **AI / Data Engineering roles**, where I can build r
 
 <td width="50%" valign="top">
 
-## Project Showcase
+## Projects
 
 ### 💬 Customer Review Data Processing and insights
 
